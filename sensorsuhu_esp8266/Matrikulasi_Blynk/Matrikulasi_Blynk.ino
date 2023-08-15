@@ -16,8 +16,8 @@ uint32_t tUpdate = 0;
 #define DHTTYPE DHT11 
 
 char auth[] = "9sE4MidQJqHFnkqYUD591eWYkRmrOLSQ"; // masukkan kode autentikasi disini
-char ssid[] = "ZTE_5G_qUbUL2"; //nama wifi
-char pass[] = "XuDJDK65"; //password
+char ssid[] = "Blank"; //nama wifi
+char pass[] = ""; //password
 
 BlynkTimer timer;
 float t;
